@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="12.1.2">
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/configuration/properties/JwtProperties.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/products/ProductRecord.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/products/ProductToUpdate.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/products/ProductToAdd.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/sales/SaleRecord.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/sales/SaleToAdd.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/sales/SaleItemRecord.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/sales/SaleItemToAdd.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/users/UserRecord.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/stock/StockRecord.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/stock/StockAdjustment.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/categories/CategoryToUpdate.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/categories/CategoryToAdd.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/categories/CategoryRecord.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/records/reports/DailySummaryRecord.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/CommerceApplication.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/security/JwtAuthenticationConverter.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/security/SecurityConfiguration.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/enums/PaymentMethod.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/repositories/ProductRepository.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/repositories/CategoryRepository.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/repositories/StockRepository.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/repositories/UserRepository.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/repositories/SaleItemRepository.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/repositories/SaleRepository.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/exceptions/PermissionDeniedException.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/exceptions/EntityNotFoundException.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/exceptions/BusinessException.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/controller/ProductController.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/controller/CategoryController.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/controller/SaleController.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/controller/ReportController.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/controller/StockController.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/controller/UserController.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/mappers/CategoryMapper.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/mappers/StockMapper.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/mappers/SaleItemMapper.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/mappers/SaleMapper.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/mappers/UserMapper.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/mappers/ProductMapper.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/sale/SaleQueryService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/sale/SaleAddService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/category/CategoryAddService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/category/CategoryQueryService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/user/UserService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/product/ProductAddService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/product/ProductQueryService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/report/ReportService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/stock/StockQueryService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/services/stock/StockAddService.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/entities/Product.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/entities/Category.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/entities/User.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/entities/Stock.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/entities/Sale.java">
+</file>
+<file name="/Users/mgferrero/Desktop/personal/api-commerce/src/main/java/api/m2/commerce/entities/SaleItem.java">
+</file>
+</checkstyle>
